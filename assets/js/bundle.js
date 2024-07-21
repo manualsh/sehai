@@ -499,18 +499,18 @@ return function(){function t(t,s){e.load(this,s,t),this.begin()}var s=t.prototyp
 
 // Functions
 /*!
-  * NioApp v1.0.0 (https://softnio.com/)
-  * Developed by Softnio Team.
-  * Copyright by Softnio.
+  * NioApp v1.0.0 (https://edudemy.com/)
+  * Developed by Edudemy Team.
+  * Copyright by Edudemy.
   */
 var NioApp = (function (win, doc) {
     "use strict";
     var NioApp = {
         AppInfo: {
-            name: "NioApp", version: "1.0.0", author: "Softnio"
+            name: "NioApp", version: "1.0.0", author: "Edudemy"
         },
         Package: {
-            name: "CopyGen", version: "1.1.0",
+            name: "SEH AI", version: "1.1.0",
         }
     }
 
